@@ -1,7 +1,7 @@
 # godoc
 
 > View documentation for go packages.
-> More information: <https://godoc.org/>.
+> More information: <https://godoc.org>.
 
 - Display help for a specific package:
 

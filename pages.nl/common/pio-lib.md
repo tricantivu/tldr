@@ -1,7 +1,7 @@
 # pio lib
 
 > Beheer PlatformIO bibliotheken.
-> Meer informatie: <https://docs.platformio.org/en/latest/core/userguide/lib/>.
+> Meer informatie: <https://docs.platformio.org/en/latest/core/userguide/lib>.
 
 - Toon geïnstalleerde bibliotheken:
 

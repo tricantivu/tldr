@@ -1,7 +1,7 @@
 # pio access
 
 > Stel het toegangsniveau in op publieke bronnen (pakketten) in het register.
-> Meer informatie: <https://docs.platformio.org/en/latest/core/userguide/access/>.
+> Meer informatie: <https://docs.platformio.org/en/latest/core/userguide/access>.
 
 - Verleen een gebruiker toegang tot een bron:
 

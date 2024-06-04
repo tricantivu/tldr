@@ -2,7 +2,7 @@
 
 > Fast, secure open-source backup tool.
 > Supports encryption, compression, deduplication, and incremental snapshots.
-> More information: <https://kopia.io/docs/reference/command-line/>.
+> More information: <https://kopia.io/docs/reference/command-line>.
 
 - Create a repository in the local filesystem:
 

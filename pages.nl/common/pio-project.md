@@ -1,7 +1,7 @@
 # pio project
 
 > Tool voor het beheren van PlatformIO projecten.
-> Meer informatie: <https://docs.platformio.org/en/latest/core/userguide/project/>.
+> Meer informatie: <https://docs.platformio.org/en/latest/core/userguide/project>.
 
 - Initialiseer een nieuw PlatformIO project:
 

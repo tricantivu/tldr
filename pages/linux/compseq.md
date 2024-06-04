@@ -1,7 +1,7 @@
 # compseq
 
 > Calculate the composition of unique words in sequences.
-> More information: <https://www.bioinformatics.nl/cgi-bin/emboss/help/compseq/>.
+> More information: <https://www.bioinformatics.nl/cgi-bin/emboss/help/compseq>.
 
 - Count observed frequencies of words in a FASTA file, providing parameter values with interactive prompt:
 

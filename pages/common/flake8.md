@@ -1,7 +1,7 @@
 # flake8
 
 > Check the style and quality of Python code.
-> More information: <https://flake8.pycqa.org/>.
+> More information: <https://flake8.pycqa.org>.
 
 - Lint a file or directory recursively:
 

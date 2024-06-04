@@ -1,7 +1,7 @@
 # cmd
 
 > Менеджер сервісів Android.
-> Більше інформації: <https://cs.android.com/android/platform/superproject/+/main:frameworks/native/cmds/cmd/>.
+> Більше інформації: <https://cs.android.com/android/platform/superproject/+/main:frameworks/native/cmds/cmd>.
 
 - Вивести всі запущені девайси:
 

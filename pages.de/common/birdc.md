@@ -2,7 +2,7 @@
 
 > Bird remote control.
 > Kommandozeilenwerkzeug zum Abrufen von Informationen wie Routen von bird und zur Durchführung von Konfigurationen während der Laufzeit.
-> Weitere Informationen: <https://bird.network.cz/>.
+> Weitere Informationen: <https://bird.network.cz>.
 
 - Öffne die remote control Konsole:
 

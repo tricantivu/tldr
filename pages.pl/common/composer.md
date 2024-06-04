@@ -1,7 +1,7 @@
 # composer
 
 > Menadżer pakietów dla projektów PHP.
-> Więcej informacji: <https://getcomposer.org/>.
+> Więcej informacji: <https://getcomposer.org>.
 
 - Interaktywnie utwórz plik `composer.json`:
 

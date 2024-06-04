@@ -1,7 +1,7 @@
 # argocd app
 
 > Argo CD로 애플리케이션을 관리하는 명령줄 인터페이스.
-> 더 많은 정보: <https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_app/>.
+> 더 많은 정보: <https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_app>.
 
 - 애플리케이션 목록 보여주기:
 

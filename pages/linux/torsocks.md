@@ -2,7 +2,7 @@
 
 > Route the traffic of any application through the Tor network.
 > Note: `torsocks` will assume that it should connect to the Tor SOCKS proxy running at 127.0.0.1:9050 being the defaults of the Tor daemon.
-> More information: <https://gitlab.torproject.org/tpo/core/torsocks/>.
+> More information: <https://gitlab.torproject.org/tpo/core/torsocks>.
 
 - Run a command using Tor:
 

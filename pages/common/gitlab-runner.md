@@ -1,7 +1,7 @@
 # gitlab-runner
 
 > Manage GitLab runners.
-> More information: <https://docs.gitlab.com/runner/>.
+> More information: <https://docs.gitlab.com/runner>.
 
 - Register a runner:
 

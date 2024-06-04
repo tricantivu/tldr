@@ -1,7 +1,7 @@
 # acpi
 
 > Wyśwetl status baterii lub informacje dotyczące temperatury.
-> Więcej informacji: <https://sourceforge.net/projects/acpiclient/files/acpiclient/>.
+> Więcej informacji: <https://sourceforge.net/projects/acpiclient/files/acpiclient>.
 
 - Pokaż informacje o baterii:
 

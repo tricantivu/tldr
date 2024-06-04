@@ -1,7 +1,7 @@
 # docker pull
 
 > Télécharge une image Docker depuis le registre.
-> Plus d'informations : <https://docs.docker.com/engine/reference/commandline/pull/>.
+> Plus d'informations : <https://docs.docker.com/engine/reference/commandline/pull>.
 
 - Télécharge une image Docker spécifique :
 

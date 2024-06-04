@@ -1,7 +1,7 @@
 # aws sts
 
 > Serviço de Token de Segurança (STS) que permite solicitar credenciais temporárias para usuários (IAM) ou federados.
-> Mais informações: <https://docs.aws.amazon.com/cli/latest/reference/sts/>.
+> Mais informações: <https://docs.aws.amazon.com/cli/latest/reference/sts>.
 
 - Obtém credenciais temporárias para acessar recursos AWS específicos:
 

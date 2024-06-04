@@ -2,7 +2,7 @@
 
 > Distributed version control system.
 > Some subcommands such as `commit`, `add`, `branch`, `checkout`, `push`, etc. have their own usage documentation.
-> More information: <https://git-scm.com/>.
+> More information: <https://git-scm.com>.
 
 - Execute a Git subcommand:
 

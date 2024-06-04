@@ -1,7 +1,7 @@
 # kiwi-ng
 
 > An OS image and appliance builder.
-> More information: <https://osinside.github.io/kiwi/>.
+> More information: <https://osinside.github.io/kiwi>.
 
 - Build an appliance:
 

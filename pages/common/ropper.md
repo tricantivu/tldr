@@ -1,7 +1,7 @@
 # ropper
 
 > Find ROP gadgets in binary files.
-> More information: <http://scoding.de/ropper/>.
+> More information: <http://scoding.de/ropper>.
 
 - List gadgets in the binary file:
 

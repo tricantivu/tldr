@@ -1,7 +1,7 @@
 # kate
 
 > Editor de texto avançado do KDE.
-> Mais informações: <https://kate-editor.org/>.
+> Mais informações: <https://kate-editor.org>.
 
 - Abre arquivos específicos:
 

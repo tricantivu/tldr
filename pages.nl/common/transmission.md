@@ -2,7 +2,7 @@
 
 > Transmission is een eenvoudige torrent-client.
 > Transmission is geen commando, maar een set commando's. Zie de onderstaande pagina's.
-> Meer informatie: <https://transmissionbt.com/>.
+> Meer informatie: <https://transmissionbt.com>.
 
 - Toon de tdlr pagina voor het uitvoeren van de daemon van Transmission:
 

@@ -1,7 +1,7 @@
 # pio org
 
 > Beheer PlatformIO organisaties en hun eigenaren.
-> Meer informatie: <https://docs.platformio.org/en/latest/core/userguide/org/>.
+> Meer informatie: <https://docs.platformio.org/en/latest/core/userguide/org>.
 
 - Maak een nieuwe organisatie:
 

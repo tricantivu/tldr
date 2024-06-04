@@ -1,7 +1,7 @@
 # gleam
 
 > El compilador, la herramienta de compilación, el gestor de paquetes y el formateador de código para Gleam, "un lenguaje amigable para construir sistemas de tipo seguro escalables".
-> Más información: <https://gleam.run/writing-gleam/command-line-reference/>.
+> Más información: <https://gleam.run/writing-gleam/command-line-reference>.
 
 - Crea un nuevo proyecto gleam:
 

@@ -1,7 +1,7 @@
 # pio platform
 
 > Beheer PlatformIO ontwikkelplatformen.
-> Meer informatie: <https://docs.platformio.org/en/latest/core/userguide/platforms/>.
+> Meer informatie: <https://docs.platformio.org/en/latest/core/userguide/platforms>.
 
 - Toon alle geïnstalleerde ontwikkelplatformen:
 

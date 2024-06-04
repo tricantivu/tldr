@@ -1,7 +1,7 @@
 # vidir
 
 > Edit directories in a text editor.
-> More information: <https://joeyh.name/code/moreutils/>.
+> More information: <https://joeyh.name/code/moreutils>.
 
 - Edit the contents of the specified directories:
 

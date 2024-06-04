@@ -1,7 +1,7 @@
 # pcapfix
 
 > Repara archivos PCAP y PcapNG dañados o corruptos.
-> Más información: <https://f00l.de/pcapfix/>.
+> Más información: <https://f00l.de/pcapfix>.
 
 - Repara un archivo PCAP/PcapNG (Nota: para los archivos PCAP, sólo se escanean los primeros 262144 bytes de cada paquete):
 

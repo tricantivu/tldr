@@ -1,7 +1,7 @@
 # railway
 
 > Connect code to a Railway project.
-> More information: <https://railway.app/>.
+> More information: <https://railway.app>.
 
 - Login to a Railway account:
 

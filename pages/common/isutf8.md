@@ -1,7 +1,7 @@
 # isutf8
 
 > Check whether text files contain valid UTF-8.
-> More information: <https://joeyh.name/code/moreutils/>.
+> More information: <https://joeyh.name/code/moreutils>.
 
 - Check whether the specified files contain valid UTF-8:
 

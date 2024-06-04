@@ -1,7 +1,7 @@
 # pygmentize
 
 > Python-based syntax highlighter.
-> More information: <https://pygments.org/docs/cmdline/>.
+> More information: <https://pygments.org/docs/cmdline>.
 
 - Highlight file syntax and print to `stdout` (language is inferred from the file extension):
 

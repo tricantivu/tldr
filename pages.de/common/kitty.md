@@ -1,7 +1,7 @@
 # kitty
 
 > Ein schneller, funktionsreicher, auf der GPU basierender Terminal-Emulator.
-> Weitere Informationen: <https://sw.kovidgoyal.net/kitty/>.
+> Weitere Informationen: <https://sw.kovidgoyal.net/kitty>.
 
 - Öffne ein neues Terminal:
 

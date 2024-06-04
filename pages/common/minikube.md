@@ -1,7 +1,7 @@
 # minikube
 
 > Run Kubernetes locally.
-> More information: <https://minikube.sigs.k8s.io/docs/>.
+> More information: <https://minikube.sigs.k8s.io/docs>.
 
 - Start the cluster:
 

@@ -1,7 +1,7 @@
 # pcapfix
 
 > Repariere beschädigte oder korrumpierte `pcap`- und `pcapng`-Dateien.
-> Weitere Informationen: <https://f00l.de/pcapfix/>.
+> Weitere Informationen: <https://f00l.de/pcapfix>.
 
 - Repariere eine `pcap`/`pcapng`-Datei (Hinweis: bei `pcap`-Dateien werden nur die ersten 262144 Bytes jedes Pakets gescannt):
 

@@ -2,7 +2,7 @@
 
 > VPN daemon.
 > Arbeitet auf Schicht 2 oder Schicht 3, unterstützt verschiedene Verschlüsselungsmethoden, wird von Freifunk verwendet.
-> Weitere Informationen: <https://fastd.readthedocs.io/en/stable/>.
+> Weitere Informationen: <https://fastd.readthedocs.io/en/stable>.
 
 - Starte `fastd` mit einer bestimmten Konfigurationsdatei:
 

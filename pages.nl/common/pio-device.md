@@ -1,7 +1,7 @@
 # pio device
 
 > Beheer en monitor PlatformIO apparaten.
-> Meer informatie: <https://docs.platformio.org/en/latest/core/userguide/device/>.
+> Meer informatie: <https://docs.platformio.org/en/latest/core/userguide/device>.
 
 - Toon alle beschikbare seriele poorten:
 

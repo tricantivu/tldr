@@ -2,7 +2,7 @@
 
 > Open Observatory of Network Interference (OONI).
 > Test the blocking of websites and apps. Measure the speed and performance of your network.
-> More information: <https://ooni.org/support/ooni-probe-cli/>.
+> More information: <https://ooni.org/support/ooni-probe-cli>.
 
 - List all tests performed:
 

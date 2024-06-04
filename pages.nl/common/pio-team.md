@@ -1,7 +1,7 @@
 # pio team
 
 > Beheer PlatformIO teams.
-> Meer informatie: <https://docs.platformio.org/en/latest/core/userguide/team/>.
+> Meer informatie: <https://docs.platformio.org/en/latest/core/userguide/team>.
 
 - Maak een nieuw team met de gespecificeerde beschrijving:
 

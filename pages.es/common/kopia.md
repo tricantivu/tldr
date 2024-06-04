@@ -2,7 +2,7 @@
 
 > Herramienta de copia de seguridad de código abierto, rápida y segura.
 > Soporta encriptación, compresión, deduplicación e instantáneas incrementales.
-> Más información: <https://kopia.io/docs/reference/command-line/>.
+> Más información: <https://kopia.io/docs/reference/command-line>.
 
 - Crea un repositorio en el sistema de archivos local:
 

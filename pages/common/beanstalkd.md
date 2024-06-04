@@ -1,7 +1,7 @@
 # beanstalkd
 
 > A simple and generic work-queue server.
-> More information: <https://beanstalkd.github.io/>.
+> More information: <https://beanstalkd.github.io>.
 
 - Start the server, listening on port 11300:
 

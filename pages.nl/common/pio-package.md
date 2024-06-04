@@ -2,7 +2,7 @@
 
 > Beheer pakketten in het register.
 > Pakketten kunnen alleen verwijderd worden binnen 72 uur (3 dagen) vanaf de datum dat ze gepubliceerd zijn.
-> Meer informatie: <https://docs.platformio.org/en/latest/core/userguide/package/>.
+> Meer informatie: <https://docs.platformio.org/en/latest/core/userguide/package>.
 
 - Maak een pakket tarball van de huidige map:
 

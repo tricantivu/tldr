@@ -2,7 +2,7 @@
 
 > Ein vim-artiger, modaler Dokumentenbetrachter mit integrierter Kommandozeile.
 > Benötigt ein installiertes Backend (poppler, Postscript oder DjVu).
-> Weitere Informationen: <https://pwmt.org/projects/zathura/>.
+> Weitere Informationen: <https://pwmt.org/projects/zathura>.
 
 - Öffne eine Datei:
 

@@ -2,7 +2,7 @@
 
 > Um cliente de torrent simples.
 > O Transmission não é um comando, mas um conjunto de comandos. Veja as páginas abaixo.
-> Mais informações: <https://transmissionbt.com/>.
+> Mais informações: <https://transmissionbt.com>.
 
 - Mostra a página tldr para executar o daemon do Transmission:
 

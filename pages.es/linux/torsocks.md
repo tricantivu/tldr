@@ -1,7 +1,7 @@
 # torsocks
 
 > Utiliza cualquier aplicación a través de la red de Tor.
-> Más información: <https://gitlab.torproject.org/tpo/core/torsocks/>.
+> Más información: <https://gitlab.torproject.org/tpo/core/torsocks>.
 
 - Ejecuta un comando usando Tor:
 

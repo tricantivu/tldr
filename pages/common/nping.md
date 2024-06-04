@@ -1,7 +1,7 @@
 # nping
 
 > Network packet generation tool/ping utility.
-> More information: <https://nmap.org/nping/>.
+> More information: <https://nmap.org/nping>.
 
 - Ping a specified host using ICMP if the user is allowed to, otherwise using TCP:
 

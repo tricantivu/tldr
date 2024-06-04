@@ -1,7 +1,7 @@
 # docker service
 
 > Bir Docker daemon'unun üzerindeki servisleri yönet.
-> Daha fazla bilgi için: <https://docs.docker.com/engine/reference/commandline/service/>.
+> Daha fazla bilgi için: <https://docs.docker.com/engine/reference/commandline/service>.
 
 - Bir Docker daeomon'unun üzerindeki servisleri listele:
 

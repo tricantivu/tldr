@@ -1,7 +1,7 @@
 # arc
 
 > Arcanist: a CLI for Phabricator.
-> More information: <https://secure.phabricator.com/book/phabricator/article/arcanist/>.
+> More information: <https://secure.phabricator.com/book/phabricator/article/arcanist>.
 
 - Send the changes to Differential for review:
 

@@ -1,7 +1,7 @@
 # gitlab-ctl
 
 > Manage the GitLab omnibus.
-> More information: <https://docs.gitlab.com/omnibus/maintenance/>.
+> More information: <https://docs.gitlab.com/omnibus/maintenance>.
 
 - Display the status of every service:
 

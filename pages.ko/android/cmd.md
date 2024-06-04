@@ -1,7 +1,7 @@
 # cmd
 
 > Android 서비스 매니저.
-> 더 많은 정보: <https://cs.android.com/android/platform/superproject/+/main:frameworks/native/cmds/cmd/>.
+> 더 많은 정보: <https://cs.android.com/android/platform/superproject/+/main:frameworks/native/cmds/cmd>.
 
 - 실행 중인 모든 서비스 나열:
 

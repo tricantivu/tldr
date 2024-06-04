@@ -1,7 +1,7 @@
 # yard
 
 > Documentation tool for Ruby.
-> More information: <https://yardoc.org/>.
+> More information: <https://yardoc.org>.
 
 - Create the documentation:
 

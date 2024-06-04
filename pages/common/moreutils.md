@@ -2,7 +2,7 @@
 
 > A collection of UNIX tools.
 > Note: moreutils isn't a command, but a set of commands.
-> More information: <https://joeyh.name/code/moreutils/>.
+> More information: <https://joeyh.name/code/moreutils>.
 
 - View documentation for pages related to standard streams:
 

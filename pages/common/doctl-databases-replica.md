@@ -1,7 +1,7 @@
 # doctl databases replica
 
 > Manage read-only replicas associated with a database cluster.
-> More information: <https://docs.digitalocean.com/reference/doctl/reference/databases/replica/>.
+> More information: <https://docs.digitalocean.com/reference/doctl/reference/databases/replica>.
 
 - Run a `doctl databases replica` command with an access token:
 

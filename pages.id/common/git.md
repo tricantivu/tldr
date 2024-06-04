@@ -2,7 +2,7 @@
 
 > Sistem kontrol versi terdistribusi.
 > Kami mempunyai dokumentasi terpisah untuk menggunakan subperintah seperti `commit`, `add`, `branch`, `checkout`, `push`, dsb.
-> Informasi lebih lanjut: <https://git-scm.com/>.
+> Informasi lebih lanjut: <https://git-scm.com>.
 
 - Periksa versi Git:
 

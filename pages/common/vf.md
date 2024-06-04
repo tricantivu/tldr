@@ -1,7 +1,7 @@
 # vf
 
 > VirtualFish is a fish shell tool for managing Python virtual environments.
-> More information: <https://virtualfish.readthedocs.io/en/latest/>.
+> More information: <https://virtualfish.readthedocs.io/en/latest>.
 
 - Create a virtual environment:
 

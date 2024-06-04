@@ -2,7 +2,7 @@
 
 > CLI for AWS Glue.
 > Define the public endpoint for the AWS Glue service.
-> More information: <https://docs.aws.amazon.com/cli/latest/reference/glue/>.
+> More information: <https://docs.aws.amazon.com/cli/latest/reference/glue>.
 
 - List jobs:
 

@@ -1,7 +1,7 @@
 # apktool
 
 > APK 파일 리버스 엔지니어링.
-> 더 많은 정보: <https://ibotpeaches.github.io/Apktool/>.
+> 더 많은 정보: <https://ibotpeaches.github.io/Apktool>.
 
 - APK 파일 디코딩:
 
